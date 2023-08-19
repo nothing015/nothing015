@@ -4,8 +4,8 @@
 
 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 Toronto Metropolitan University, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸7
 
-I am an aspiring developer and entrepreneur
+Aspiring developer and entrepreneur
 
-I am interested in artificial intelligence, psychology, philanthropy and of course gaming
+Interested in artificial intelligence, psychology, philanthropy and of course gaming
 
 🖥 You can reach me through nnuaiman@gmail.com
