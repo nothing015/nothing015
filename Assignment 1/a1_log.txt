@@ -1,0 +1,673 @@
+$ java MyAudioUI
+>store
+1. Title: Yesterday Id: 123 Year: 1965 Type: SONG Length: 2
+Artist: The Beatles Composer: Paul McCartney Genre: POP
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Man's Not Hot Id: 374 Year: 2017 Type: SONG Length: 2
+Artist: Michael Dapaah Composer: Michael Dapaah Genre: RAP
+
+4. Title: Wicked Game Id: 185 Year: 1989 Type: SONG Length: 4
+Artist: Chris Isaak Composer: Chris Isaak Genre: ROCK
+
+5. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+6. Title: Radioactive Id: 823 Year: 2012 Type: SONG Length: 3
+Artist: Imagine Dragons Composer: Josh Mosser, A. Grant, Dan Reynolds, Wayne Sermon, Ben McKee Genre: ROCK
+
+7. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+8. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+9. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+10. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+11. Title: Shogun Id: 284 Year: 2018 Type: AUDIOBOOK Length: 3213
+Author: James Clavel Narrated by: Ralph Lister
+
+12. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+
+>download
+Store Content #: 2
+
+>download
+Store Content #: 5
+
+>download
+Store Content #: 7
+
+>download
+Store Content #: 8
+
+>songs
+1. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+2. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+3. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+4. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+
+>artists
+1. Alessia Cara
+2. Coldplay
+3. Nina Simone
+
+>sortbyname
+
+>songs
+1. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+2. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+3. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+4. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+
+>sortbyyear
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+3. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+4. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+
+>sortbylength
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+4. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>playsong
+Song Number: 2
+Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+I'm sorry if I seem uninterested
+Or I'm not listenin' or I'm indifferent
+Truly, I ain't got no business here
+But since my friends are here, I just came to kick it
+But really I would rather be at home all by myself not in this room
+With people who don't even care about my well being
+
+>playsong
+Song Number: 4
+Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+The lights go out and I can't be saved
+Tides that I tried to swim against
+Have brought me down upon my knees
+Oh, I beg, I beg and plead
+Singin' come out of things un said
+
+>store
+1. Title: Yesterday Id: 123 Year: 1965 Type: SONG Length: 2
+Artist: The Beatles Composer: Paul McCartney Genre: POP
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Man's Not Hot Id: 374 Year: 2017 Type: SONG Length: 2
+Artist: Michael Dapaah Composer: Michael Dapaah Genre: RAP
+
+4. Title: Wicked Game Id: 185 Year: 1989 Type: SONG Length: 4
+Artist: Chris Isaak Composer: Chris Isaak Genre: ROCK
+
+5. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+6. Title: Radioactive Id: 823 Year: 2012 Type: SONG Length: 3
+Artist: Imagine Dragons Composer: Josh Mosser, A. Grant, Dan Reynolds, Wayne Sermon, Ben McKee Genre: ROCK
+
+7. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+8. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+9. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+10. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+11. Title: Shogun Id: 284 Year: 2018 Type: AUDIOBOOK Length: 3213
+Author: James Clavel Narrated by: Ralph Lister
+
+12. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+
+>download
+Store Content #: 9
+
+>download
+Store Content #: 10
+
+>books
+1. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+2. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+
+>booktoc
+Audio Book Number: 1
+Chapter 1. The Riddle House
+
+Chapter 2. The Scar
+
+Chapter 3. The Invitation
+
+Chapter 4. Back to The Burrow
+
+
+>booktoc
+Audio Book Number: 2
+Chapter 1. Loomings.
+
+Chapter 2. The Carpet-Bag.
+
+Chapter 3. The Spouter-Inn.
+
+
+>playbook
+Audio Book Number: 1
+Chapter: 2
+Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+The Scar.
+In which Harry awakens from a bad dream,
+his scar burning, we recap Harry's previous adventures,
+and he writes a letter to his godfather.
+
+>playbook
+Audio Book Number: 2
+Chapter: 3
+Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+The Spouter-Inn..
+Entering that gable-ended Spouter-Inn, you found yourself in a wide,
+low, straggling entry with old-fashioned wainscots,
+reminding one of the bulwarks of some condemned old craft.
+
+>store
+1. Title: Yesterday Id: 123 Year: 1965 Type: SONG Length: 2
+Artist: The Beatles Composer: Paul McCartney Genre: POP
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Man's Not Hot Id: 374 Year: 2017 Type: SONG Length: 2
+Artist: Michael Dapaah Composer: Michael Dapaah Genre: RAP
+
+4. Title: Wicked Game Id: 185 Year: 1989 Type: SONG Length: 4
+Artist: Chris Isaak Composer: Chris Isaak Genre: ROCK
+
+5. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+6. Title: Radioactive Id: 823 Year: 2012 Type: SONG Length: 3
+Artist: Imagine Dragons Composer: Josh Mosser, A. Grant, Dan Reynolds, Wayne Sermon, Ben McKee Genre: ROCK
+
+7. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+8. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+9. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+10. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+11. Title: Shogun Id: 284 Year: 2018 Type: AUDIOBOOK Length: 3213
+Author: James Clavel Narrated by: Ralph Lister
+
+12. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+
+>download
+Store Content #: 12
+
+>podcasts
+1. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+>podtoc
+Podcast Number: 1
+Season: 2
+Episode 1. Toronto vs Everyone
+
+Episode 2. Water
+
+
+>podtoc
+Podcast Number: 1
+Season: 1
+Episode 1. Bay Blanket
+
+Episode 2. You Don't Want to Sleep Here
+
+Episode 3. The Gold Rush
+
+
+>playpod
+Podcast Number: 1
+Season: 2
+Episode: 2
+Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+Water.
+Can the foundation of Canada be traced back to Indigenous trade routes?
+In this episode Falen and Leah take a trip across the Great Lakes, they talk corn
+and vampires, and discuss some big concerns currently facing Canada's water.
+
+>playlists
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+4. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>makepl
+Playlist Title: Workout
+
+>addtopl
+Playlist Title: Workout
+Content Type [SONG, PODCAST, AUDIOBOOK]: song
+Library Content #: 2
+
+>addtopl
+Playlist Title: Workout
+Content Type [SONG, PODCAST, AUDIOBOOK]: song
+Library Content #: 4
+
+>printpl
+Playlist Title: Workout
+1. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+2. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>books
+1. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+2. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+
+>addtopl
+Playlist Title: Workout
+Content Type [SONG, PODCAST, AUDIOBOOK]: audiobook
+Library Content #: 1
+
+>printpl
+Playlist Title: Workout
+1. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+2. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+3. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+
+>playallpl
+Playlist Title: Workout
+Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+I'm sorry if I seem uninterested
+Or I'm not listenin' or I'm indifferent
+Truly, I ain't got no business here
+But since my friends are here, I just came to kick it
+But really I would rather be at home all by myself not in this room
+With people who don't even care about my well being
+
+Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+The lights go out and I can't be saved
+Tides that I tried to swim against
+Have brought me down upon my knees
+Oh, I beg, I beg and plead
+Singin' come out of things un said
+
+Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+The Scar.
+In which Harry awakens from a bad dream,
+his scar burning, we recap Harry's previous adventures,
+and he writes a letter to his godfather.
+
+
+>printpl
+Playlist Title: Workout
+1. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+2. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+3. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+
+>playpl
+Playlist Title: Workout
+Content Number: 2
+Workout
+Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+The lights go out and I can't be saved
+Tides that I tried to swim against
+Have brought me down upon my knees
+Oh, I beg, I beg and plead
+Singin' come out of things un said
+
+>delfrompl
+Playlist Title: Workout
+Playlist Content #: 2
+
+>printpl
+Playlist Title: Workout
+1. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+2. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+4. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>delsong
+Library Song #: 2
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>printpl
+Playlist Title: Workout
+1. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+
+>
+
+>
+
+>
+
+>
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>playsong
+Song Number: 7
+Song Not Found
+
+>books
+1. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+2. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+
+>playbook
+Audio Book Number: 8
+Chapter: 1
+AudioBook Not Found
+
+>podcasts
+1. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+>playpod
+Podcast Number: 3
+Season: 1
+Episode: 2
+Podcast Not Found
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+
+>store
+1. Title: Yesterday Id: 123 Year: 1965 Type: SONG Length: 2
+Artist: The Beatles Composer: Paul McCartney Genre: POP
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Man's Not Hot Id: 374 Year: 2017 Type: SONG Length: 2
+Artist: Michael Dapaah Composer: Michael Dapaah Genre: RAP
+
+4. Title: Wicked Game Id: 185 Year: 1989 Type: SONG Length: 4
+Artist: Chris Isaak Composer: Chris Isaak Genre: ROCK
+
+5. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+6. Title: Radioactive Id: 823 Year: 2012 Type: SONG Length: 3
+Artist: Imagine Dragons Composer: Josh Mosser, A. Grant, Dan Reynolds, Wayne Sermon, Ben McKee Genre: ROCK
+
+7. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+8. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+9. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+10. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+11. Title: Shogun Id: 284 Year: 2018 Type: AUDIOBOOK Length: 3213
+Author: James Clavel Narrated by: Ralph Lister
+
+12. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+
+>download
+Store Content #: 1
+
+>songs
+1. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+2. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+4. Title: Yesterday Id: 123 Year: 1965 Type: SONG Length: 2
+Artist: The Beatles Composer: Paul McCartney Genre: POP
+
+
+>store
+1. Title: Yesterday Id: 123 Year: 1965 Type: SONG Length: 2
+Artist: The Beatles Composer: Paul McCartney Genre: POP
+
+2. Title: Here Id: 391 Year: 2015 Type: SONG Length: 3
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+3. Title: Man's Not Hot Id: 374 Year: 2017 Type: SONG Length: 2
+Artist: Michael Dapaah Composer: Michael Dapaah Genre: RAP
+
+4. Title: Wicked Game Id: 185 Year: 1989 Type: SONG Length: 4
+Artist: Chris Isaak Composer: Chris Isaak Genre: ROCK
+
+5. Title: Clocks Id: 875 Year: 2002 Type: SONG Length: 5
+Artist: Coldplay Composer: Guy Berryman, Chris Martin Genre: ROCK
+
+6. Title: Radioactive Id: 823 Year: 2012 Type: SONG Length: 3
+Artist: Imagine Dragons Composer: Josh Mosser, A. Grant, Dan Reynolds, Wayne Sermon, Ben McKee Genre: ROCK
+
+7. Title: Feelin' Good Id: 875 Year: 1965 Type: SONG Length: 3
+Artist: Nina Simone Composer: Anthony Newley, Leslie Bricusse Genre: JAZZ
+
+8. Title: Wild Things Id: 443 Year: 2015 Type: SONG Length: 4
+Artist: Alessia Cara Composer: Alessia Cara Genre: POP
+
+9. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+10. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+11. Title: Shogun Id: 284 Year: 2018 Type: AUDIOBOOK Length: 3213
+Author: James Clavel Narrated by: Ralph Lister
+
+12. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+
+>download
+Store Content #: 7
+Song already downloaded
+
+>books
+1. Title: Harry Potter and the Goblet of Fire Id: 894 Year: 2015 Type: AUDIOBOOK Length: 1236
+Author: J.K. Rowling Narrated by: Jim Dale
+
+2. Title: Moby Dick Id: 376 Year: 2018 Type: AUDIOBOOK Length: 1422
+Author: Herman Melville Narrated by: Pete Cross
+
+
+>download
+Store Content #: 10
+AudioBook already downloaded
+
+>podcasts
+1. Title: The Secret Life of Canada Id: 865 Year: 2021 Type: PODCAST Length: 0
+Host: Leah-Simone Bowen, Falen Johnson
+Seasons: 2
+
+>download
+Store Content #: 12
+Podcast already downloaded
+
+>playlists
+1. Workout
+
+>makepl
+Playlist Title: Workout
+Playlist Workout Already Exists
+
+>makepl
+Playlist Title: Dinner
+
+>playlists
+1. Workout
+2. Dinner
+
+>quit
