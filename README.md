@@ -6,6 +6,6 @@
 
 Aspiring developer and entrepreneur
 
-Interested in artificial intelligence, psychology, philanthropy and of course gaming
+Interested in artificial intelligence, psychology and philanthropy
 
 🖥 You can reach me through nnuaiman@gmail.com
