@@ -74,11 +74,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nuaimannn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuaimannn&layout=compact&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nothing015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing015&layout=compact&theme=tokyonight" />
 </p>
-
-> Replace `nuaimannn` above with your actual GitHub username so the stats cards pull your real data.
 
 [mail]: nuaiman.hasan@torontomu.ca
 [instagram]:https://www.instagram.com/nnnuaimannn/
