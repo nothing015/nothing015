@@ -1,5 +1,5 @@
 <p align="center">
-  <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=Hi+there%2C+I'm+Nuaiman.;Software+Engineer+%7C+Data+%26+AI+Enthusiast;Building+with+Python%2C+Java+%26+ML."></b>
+  <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=Hi+there%2C+I'm+Nuaiman."></b>
 </p>
 <br>
 <div align="center">
@@ -28,55 +28,7 @@
 
 
 
-
-<br />
-
-### Languages:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/sql/sql.png" />
-
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/typescript/typescript.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/javascript/javascript.png" />
-
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/rust/rust.png" />
-
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/css/css.png" />
-
-<br />
-
-### Frameworks & Tools:
-
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/angular/angular.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />
-
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />
-
-[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/anaconda.svg" />](https://www.anaconda.com)
-
 <br /><br />
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nothing015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing015&layout=compact&theme=tokyonight" />
-</p>
 
 [mail]: nuaiman.hasan@torontomu.ca
 [instagram]:https://www.instagram.com/nnnuaimannn/
