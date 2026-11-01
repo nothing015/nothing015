@@ -22,7 +22,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nuaiman Hasan | Facebook" width="22px" src="http://i.imgur.com/P3YfQoD.png" />][Facebook]
 [<img align="left" alt="Nuaiman Hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nuaiman Hasan | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
 
