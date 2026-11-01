@@ -33,4 +33,3 @@
 [mail]: nuaiman.hasan@torontomu.ca
 [instagram]:https://www.instagram.com/nnnuaimannn/
 [linkedin]:https://www.linkedin.com/in/mohammad-nuaiman-hasan-baa0b0154/
-[Facebook]:https://www.facebook.com/mohammad.nuaiman/
